@@ -19,6 +19,8 @@ Westminster College of Arts & Sciences, Westminster University
 
 {% include_relative teaching.md %}
 
+{% include research-supervised.md %}
+
 {% include_relative publications.md %}
 
 {% include_relative grants-and-awards.md %}
