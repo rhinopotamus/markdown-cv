@@ -15,23 +15,23 @@ Westminster College of Arts & Sciences, Westminster University
 </div>
 
 
-{% include_relative education.md %}
+{% include education.md %}
 
-{% include_relative teaching.md %}
+{% include teaching.md %}
 
 {% include research-supervised.md %}
 
-{% include_relative publications.md %}
+{% include publications.md %}
 
-{% include_relative grants-and-awards.md %}
+{% include grants-and-awards.md %}
 
-{% include_relative ongoing-research.md %}
+{% include ongoing-research.md %}
 
-{% include_relative workshops-conducted.md %}
+{% include workshops-conducted.md %}
 
-{% include_relative workshop-participation.md %}
+{% include workshop-participation.md %}
 
-{% include_relative service.md %}
+{% include service.md %}
 
 ### Footer
 
