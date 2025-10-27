@@ -32,7 +32,7 @@
 
 `Fall 2022 - Spring 2025` Associate Dean of Curriculum and Assessment, Westminster College of Arts and Sciences
 
-`Fall 2021 - Spring 2022` Faculty Chair
+`Fall 2021 - Spring 2022` Westminster College Faculty Chair
 
 `Fall 2019 - Spring 2022` A&S representative for Faculty Senate
 
