@@ -25,7 +25,7 @@ __[Workshop for Inclusive Teaching Practices](https://www.math.utah.edu/equity-d
 - Supported by grant funding from COMMIT Network
 - I led a 90-minute segment about alternative grading practices, including time to develop plans to alt-grade an assessment
 
-`Jan 2012 - June 2014` 
+`2012 - 2014` 
 __Teaching Consultant at the Center for Teaching Development at University of California, San Diego__
 
 - Leading training workshops for incoming and continuing graduate teaching assistants

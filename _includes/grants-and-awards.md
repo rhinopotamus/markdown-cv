@@ -8,7 +8,7 @@ Gore Course Release Development Grant for [_Just Enough Algebra_](https://justen
 - Improved scaffolding of particular ways of thinking specific to this text (naming variables, successive approximation)
 - Improved discussion of fraction arithmetic and arithmetic of exponents
 
-`Fall 2021 - Summer 2023` 
+`2021 - 2023` 
 Transitioning Secondary to Tertiary Educators' Mathematical Knowledge for Teaching ([NSF #2125969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2125969&HistoricalAwards=false))
 
 - Served as a qualitative research mentor for Dr. Anne M. Ho
