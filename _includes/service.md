@@ -4,6 +4,10 @@
 
 `Fall 2024 - Spring 2025` MAA Project NExT Teaching Support Group facilitator
 
+`2024` Panelist on grant review panel for NSF:EDU
+
+`2022` Panelist on grant review panel for NSF:EDU
+
 `Jan 2021 - present` Founding member of leadership team of [Four Corners COMMIT](https//fourcornerscommit.github.io/)
 
 `Apr 2017 - Apr 2018` Secretary / Treasurer for the Rocky Mountain Section of the Mathematical Association of America
@@ -21,6 +25,8 @@
 `2015` Referee for the American Educational Research Journal
 
 ### Westminster University
+
+`Fall 2025 - present` New faculty mentor within A&S
 
 `Fall 2025 - present` Associate Dean of Curriculum, Westminster College of Arts and Sciences
 

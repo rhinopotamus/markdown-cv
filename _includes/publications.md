@@ -56,13 +56,16 @@ Whitacre, I., Bishop, J. P., Lamb, L. L., Philipp, R. A., **Bagley, S.**, & Scha
 ### Invited Publications and Presentations
 
 `2023`
-**Bagley, S.** (2023, June / July). MathFest in Tampa: Upholding Our Values. In [MAA MathFest in Tampa: A Discussion](http://digitaleditions.walsworthprintgroup.com/article/MAA+MathFest+in+Tampa%3A+A+Discussion/4588328/793202/article.html), MAA FOCUS, June/July 2023. Invited by Allison Henrich, editor, MAA FOCUS.
+**Bagley, S.** (2023, June / July). MathFest in Tampa: Upholding our values. In [MAA MathFest in Tampa: A Discussion](http://digitaleditions.walsworthprintgroup.com/article/MAA+MathFest+in+Tampa%3A+A+Discussion/4588328/793202/article.html), MAA FOCUS, June/July 2023. Invited by Allison Henrich, editor, MAA FOCUS.
 
 `2022`
 **Bagley, S.** (2022, June). Rethinking assumptions. Invited panel, [The Grading Conference](https://college-bridge.org/our-services/conferences/the-grading-conferences/higher-ed-stem-2022/). Recording available [here](https://youtu.be/wwIEjKqdj14).
 
 `2021`
 **Bagley, S.** (2021, February). Assessment in a pandemic. In _COVID as a Catalyst for Educational Change_, SIGMAA on RUME Sponsored Panel, Edwards, E., Jett, C., & **Bagley, S.**, invited panelists.
+
+`2020`
+**Bagley, S.** (2020, August). [Ungrading as resistance.](https://www.youtube.com/watch?v=BeTRp73gtp4) In _Talk Math With Your Friends_, online seminar series. 
 
 ### Juried Presentations
 
