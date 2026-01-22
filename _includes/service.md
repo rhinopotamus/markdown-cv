@@ -2,6 +2,8 @@
 
 ### Regional and National
 
+`2026 - present` Subject Editor for PRIMUS
+
 `2024 - 2025` MAA Project NExT Teaching Support Group facilitator
 
 `2024` Panelist on grant review panel for NSF:EDU
