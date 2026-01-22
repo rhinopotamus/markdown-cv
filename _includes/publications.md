@@ -7,9 +7,11 @@ Dorée, S., & **Bagley, S.** (2025). [_Just Enough Algebra_](https://justenougha
 
 ### Refereed Publications
 
-Katz, B.P., Lewis, D., **Bagley, S.**, Bockting-Conrad, S., Ho, A., Libertini, J., Owens, K., Pilgrim, M., Salomone, M., & Shillito, B. (Under review.) Humanizing defining in mathematics with sandwiches. _PRIMUS_.
+`2026`
+Ho, A., **Bagley, S.**, Beckford, C., Burns, N., Campbell, E., Kingsley, J., & Pilgrim, M. (In press). In between high school and college: A qualitative study on educators' self-reported teaching practices. _Journal of Education_.
 
-Ho, A., **Bagley, S.**, Beckford, C., Burns, N., Campbell, E., Kingsley, J., & Pilgrim, M. (Under review). In between high school and college: A qualitative study on educators' self-reported teaching practices. _Journal of Education_.
+`2026` 
+Katz, B.P., Lewis, D., **Bagley, S.**, Bockting-Conrad, S., Ho, A., Libertini, J., Owens, K., Pilgrim, M., Salomone, M., & Shillito, B. (In press.) Humanizing defining in mathematics with sandwiches. _PRIMUS_.
 
 `2021`
 Venkatesh, A., & **Bagley, S.** (2021). Using primary sources to improve classroom climate and promote shared responsibility. _PRIMUS, 32_(4), 533-543. <https://doi.org/10.1080/10511970.2020.1861142>
